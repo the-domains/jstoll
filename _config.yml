@@ -1,0 +1,28 @@
+name: jstoll
+favicon: null
+layout_spectrum: 0.6943978825584054
+typography_spectrum: 0.7962277024053037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5010554906912148
+  lightness: 0.9608547734096646
+  saturation: 0.6776898582465947
+  rhythmicContrast: 0.6716631934978068
+purpose: []
